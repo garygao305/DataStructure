@@ -20,3 +20,6 @@ public static boolean isUniqueChars(String str) {
 
 Like the example above, & could sometimes be used for checking true or false. While, | could be used for setting value to
 true (with 1).
+
+Note: boolean true & false is not interchangeable with int 0 & positive in Java.
+
