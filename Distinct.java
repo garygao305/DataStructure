@@ -1,5 +1,6 @@
 /*
  * @author Gary Gao
+ * using Java collection Set to de-duplicate arrays and lists
  */
 
 import java.util.*;
